@@ -10,3 +10,9 @@ It includes MATLAB and Dynare model files, figures, and LaTeX documentation for 
 - **.pdf / .tex** – Project report and supporting documents
 
 Developed as part of my master’s coursework at Martin-Luther University Halle-Wittenberg.
+
+### Folder Structure
+
+- **Parnian/set1** – Problem Set I: Consumption model analysis  
+- **Parnian/set2** – Problem Set II: Extended Ramsey Growth Model  
+- **Parnian/set3** – Problem Set III: New Keynesian Model with habit persistence  
